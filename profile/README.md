@@ -8,6 +8,8 @@
       <b> projects:</b>
       <br>
          • librbxm - a roblox binary dom implementation for node & deno
+      <br>
+         • sealz - a rest api for seals 
     </samp>
     <br>
     <br>

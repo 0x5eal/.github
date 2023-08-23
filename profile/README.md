@@ -10,6 +10,8 @@
          • librbxm - a roblox binary dom implementation for node & deno
       <br>
          • sealz - a rest api for seals 
+      <br>
+         • chrono-locale - locales support for chrono
     </samp>
     <br>
     <br>
